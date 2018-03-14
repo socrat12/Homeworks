@@ -1,0 +1,1147 @@
+by,bobruisk,Bobruisk,4,217394,53.15,29.2333333
+by,braslav,Braslav,7,12378,55.6338889,27.0538889
+by,brest,Brest,1,300716,52.1,23.7
+by,disna,Disna,7,2738,55.5666667,28.2166667
+by,dzerzhinsk,Dzerzhinsk,6,24610,53.685,27.1419444
+by,gomel,Gomel,2,481000,52.4416667,30.9833333
+by,haradok,Haradok,7,13380,55.4602778,30.0
+by,horki,Horki,4,33897,54.2833333,30.9911111
+by,hrodna,Hrodna,3,317366,53.6813889,23.8147222
+by,ivanava,Ivanava,1,13614,52.1325,25.5461111
+by,kleck,Kleck,6,9641,53.0652778,26.6416667
+by,kobryn,Kobryn,1,50691,52.2161111,24.3663889
+by,lida,Lida,3,98036,53.8833333,25.2997222
+by,lyuban,Lyuban,6,10107,52.8,28.0
+by,malaryta,Malaryta,1,9692,51.7833333,24.0833333
+by,masty,Masty,3,16102,53.4077778,24.5327778
+by,mazyr,Mazyr,2,112136,52.05,29.2666667
+by,minsk,Minsk,4,1742123,53.9,27.5666667
+by,navahrudak,Navahrudak,3,30748,53.6,25.8333333
+by,orsha,Orsha,7,125347,54.5152778,30.4052778
+by,pastavy,Pastavy,7,20218,55.1163889,26.8338889
+by,pinsk,Pinsk,1,130777,52.1213889,26.0727778
+by,salihorsk,Salihorsk,6,101614,52.8,27.5333333
+by,senno,Senno,7,9987,54.8041667,29.7044444
+by,slonim,Slonim,3,51435,53.0866667,25.3219444
+by,stolin,Stolin,1,10491,51.8833333,26.85
+by,vawkavysk,Vawkavysk,3,47300,53.1519444,24.4555556
+by,zabinka,Zabinka,1,10921,52.2005556,24.0233333
+by,zlobin,Zlobin,2,73089,52.8922222,30.0280556
+it,abano terme,Abano Terme,20,19112,45.35,11.783333
+it,abbiategrasso,Abbiategrasso,9,30308,45.4,8.9
+it,acerra,Acerra,4,46729,40.95,14.366667
+it,aci castello,Aci Castello,15,18554,37.55,15.133333
+it,aci catena,Aci Catena,15,31216,37.6,15.133333
+it,acireale,Acireale,15,51967,37.616667,15.166667
+it,acquaviva delle fonti,Acquaviva delle Fonti,13,22030,40.9,16.833333
+it,acqui terme,Acqui Terme,12,19410,44.683333,8.466667
+it,acri,Acri,3,21495,39.483333,16.383333
+it,adelfia,Adelfia,13,17132,41.0,16.866667
+it,adrano,Adrano,15,36184,37.666667,14.833333
+it,adria,Adria,20,21182,45.056389,12.057778
+it,afragola,Afragola,4,59416,40.916667,14.3
+it,agira,Agira,15,8585,37.65,14.516667
+it,agliana,Agliana,16,15721,43.9,11.0
+it,agrate brianza,Agrate Brianza,9,14002,45.566667,9.35
+it,agrigento,Agrigento,15,55402,37.316667,13.566667
+it,agropoli,Agropoli,4,21243,40.35,14.983333
+it,alassio,Alassio,8,10384,44.0,8.166667
+it,alatri,Alatri,7,30322,41.716667,13.35
+it,alba,Alba,12,30860,44.7,8.033333
+it,albano laziale,Albano Laziale,7,37869,41.733333,12.65
+it,albenga,Albenga,8,22761,44.05,8.216667
+it,alberobello,Alberobello,13,11112,40.783333,17.266667
+it,albignasego,Albignasego,20,19835,45.35,11.866667
+it,albino,Albino,9,17387,45.766667,9.783333
+it,alcamo,Alcamo,15,44278,37.983333,12.966667
+it,alfonsine,Alfonsine,5,11963,44.506111,12.056389
+it,alghero,Alghero,14,42034,40.558889,8.318056
+it,alpignano,Alpignano,12,17390,45.1,7.516667
+it,altamura,Altamura,13,66119,40.816667,16.55
+it,altavilla vicentina,Altavilla Vicentina,20,10643,45.516667,11.466667
+it,altopascio,Altopascio,16,12150,43.816667,10.666667
+it,alzano lombardo,Alzano Lombardo,9,12767,45.733333,9.716667
+it,amantea,Amantea,3,13733,39.133333,16.066667
+it,amelia,Amelia,18,11282,42.55,12.416667
+it,anagni,Anagni,7,21519,41.733333,13.15
+it,ancona,Ancona,10,100982,43.633333,13.5
+it,andria,Andria,13,93819,41.216667,16.283333
+it,angri,Angri,4,29745,40.733333,14.566667
+it,anguillara sabazia,Anguillara Sabazia,7,17734,42.083333,12.266667
+it,anzio,Anzio,7,41629,41.45,12.616667
+it,aosta,Aosta,19,33503,45.733333,7.333333
+it,appiano,Appiano,17,13521,46.466667,11.25
+it,apricena,Apricena,13,13753,41.783333,15.45
+it,aprilia,Aprilia,7,67935,41.6,12.65
+it,aradeo,Aradeo,13,9108,40.133333,18.133333
+it,aragona,Aragona,15,10490,37.4,13.616667
+it,arco,Arco,17,15373,45.916667,10.883333
+it,arcola,Arcola,8,10170,44.116667,9.9
+it,arcore,Arcore,9,17361,45.616667,9.316667
+it,ardea,Ardea,7,32934,41.6,12.55
+it,arenzano,Arenzano,8,11572,44.4,8.683333
+it,arese,Arese,9,19649,45.533333,9.083333
+it,arezzo,Arezzo,16,95233,43.416667,11.883333
+it,argenta,Argenta,5,22005,44.616667,11.833333
+it,ariano irpino,Ariano Irpino,4,23034,41.15,15.083333
+it,ariccia,Ariccia,7,19033,41.716667,12.666667
+it,arluno,Arluno,9,10662,45.5,8.933333
+it,arona,Arona,12,14423,45.766667,8.566667
+it,artena,Artena,7,11564,41.733333,12.916667
+it,arzachena,Arzachena,14,11716,41.083333,9.383333
+it,arzano,Arzano,4,38397,40.916667,14.266667
+it,arzignano,Arzignano,20,24565,45.516667,11.333333
+it,ascoli piceno,Ascoli Piceno,10,50092,42.85,13.566667
+it,asola,Asola,9,10112,45.216667,10.4
+it,assemini,Ass�mini,14,26309,39.290556,8.996944
+it,assisi,Assisi,18,25749,43.066667,12.616667
+it,asti,Asti,12,72194,44.9,8.2
+it,atessa,Atessa,1,11081,42.066667,14.45
+it,atri,Atri,1,11904,42.583333,13.966667
+it,atripalda,Atripalda,4,11361,40.916667,14.833333
+it,augusta,Augusta,15,33635,37.216667,15.216667
+it,aulla,Aulla,16,10492,44.2,9.966667
+it,avellino,Avellino,4,52466,40.9,14.783333
+it,aversa,Aversa,4,56626,40.966667,14.2
+it,avezzano,Avezzano,1,38957,42.033333,13.416667
+it,avigliana,Avigliana,12,12080,45.083333,7.383333
+it,avigliano,Avigliano,2,11881,40.733333,15.716667
+it,avola,Avola,15,32767,36.9,15.133333
+it,azzano decimo,Azzano Decimo,6,13421,45.883056,12.713056
+it,bacoli,Bacoli,4,26579,40.8,14.083333
+it,badia polesine,Badia Polesine,20,10947,45.083333,11.483333
+it,bagheria,Bagheria,15,55388,38.083333,13.5
+it,bagnacavallo,Bagnacavallo,5,16423,44.416667,12.0
+it,bagnara calabra,Bagnara Calabra,3,11165,38.283333,15.8
+it,bagno a ripoli,Bagno a Ripoli,16,25431,43.75,11.316667
+it,bagnolo mella,Bagnolo Mella,9,12165,45.433333,10.166667
+it,barberino di mugello,Barberino di Mugello,16,10271,44.0,11.25
+it,bareggio,Bareggio,9,17271,45.466667,8.983333
+it,barga,Barga,16,10292,44.066667,10.483333
+it,bari,Bari,13,303049,41.133333,16.85
+it,barletta,Barletta,13,92650,41.316667,16.283333
+it,baronissi,Baronissi,4,16375,40.733333,14.75
+it,barrafranca,Barrafranca,15,12737,37.366667,14.2
+it,bassano del grappa,Bassano del Grappa,20,42457,45.766667,11.733333
+it,battipaglia,Battipaglia,4,52818,40.616667,14.966667
+it,beinasco,Beinasco,12,17416,45.016667,7.583333
+it,belluno,Belluno,20,35895,46.145,12.221389
+it,belmonte mezzagno,Belmonte Mezzagno,15,11279,38.033333,13.383333
+it,belpasso,Belpasso,15,22316,37.583333,14.966667
+it,belvedere marittimo,Belvedere Marittimo,3,8880,39.616667,15.866667
+it,benevento,Benevento,4,61728,41.133333,14.75
+it,bergamo,Bergamo,9,113603,45.683333,9.716667
+it,bernalda,Bernalda,2,11532,40.4,16.683333
+it,bertinoro,Bertinoro,5,9941,44.146944,12.138889
+it,besana in brianza,Besana in Brianza,9,15703,45.7,9.283333
+it,biancavilla,Biancavilla,15,22829,37.633333,14.866667
+it,biassono,Biassono,9,12090,45.616667,9.266667
+it,bibbiena,Bibbiena,16,12123,43.7,11.816667
+it,biella,Biella,12,45636,45.566667,8.05
+it,bisceglie,Bisceglie,13,52878,41.233333,16.5
+it,bisignano,Bisignano,3,11136,39.516667,16.283333
+it,bitetto,Bitetto,13,10662,41.033333,16.75
+it,bitonto,Bitonto,13,58242,41.1,16.683333
+it,bitritto,Bitritto,13,10384,41.05,16.833333
+it,bollate,Bollate,9,49620,45.55,9.116667
+it,bologna,Bologna,5,367168,44.483333,11.333333
+it,bolzano,Bolzano,17,91209,46.516667,11.366667
+it,bondeno,Bondeno,5,15698,44.883333,11.416667
+it,bordighera,Bordighera,8,9965,43.766667,7.65
+it,borgaro torinese,Borgaro Torinese,12,14353,45.15,7.666667
+it,borgomanero,Borgomanero,12,20133,45.7,8.466667
+it,borgo san dalmazzo,Borgo San Dalmazzo,12,11857,44.333333,7.5
+it,borgo san lorenzo,Borgo San Lorenzo,16,16628,43.95,11.383333
+it,borgosesia,Borgosesia,12,14144,45.716667,8.266667
+it,boscoreale,Boscoreale,4,26944,40.783333,14.466667
+it,boscotrecase,Boscotrecase,4,10393,40.766667,14.466667
+it,boves,Boves,12,9782,44.316667,7.55
+it,bovolone,Bovolone,20,14128,45.25,11.116667
+it,bra,Bra,12,29454,44.7,7.85
+it,bracciano,Bracciano,7,15003,42.1,12.166667
+it,brescia,Brescia,9,193713,45.55,10.25
+it,bressanone,Bressanone,17,18599,46.716667,11.65
+it,bresso,Bresso,9,26815,45.533333,9.183333
+it,brindisi,Brindisi,13,92457,40.633333,17.933333
+it,broni,Broni,9,9514,45.066667,9.266667
+it,bronte,Bronte,15,19134,37.783333,14.833333
+it,brugherio,Brugherio,9,32439,45.55,9.3
+it,brunico,Brunico,17,13982,46.8,11.933333
+it,brusciano,Brusciano,4,16051,40.916667,14.416667
+it,bucine,Bucine,16,9940,43.483333,11.616667
+it,budrio,Budrio,5,16322,44.383333,11.9
+it,busca,Busca,12,10168,44.516667,7.483333
+it,bussolengo,Bussolengo,20,18755,45.466667,10.85
+it,busto arsizio,Busto Arsizio,9,79229,45.616667,8.85
+it,busto garolfo,Busto Garolfo,9,13520,45.55,8.883333
+it,cabras,C�bras,14,9249,39.93,8.531389
+it,cadoneghe,Cadoneghe,20,15600,45.433333,11.916667
+it,cagliari,Cagliari,14,157343,39.216667,9.116667
+it,cagli,Cagli,10,9068,43.55,12.65
+it,cairo montenotte,Cairo Montenotte,8,13547,44.4,8.266667
+it,caivano,Caivano,4,36860,40.95,14.3
+it,calcinato,Calcinato,9,11817,45.45,10.4
+it,calderara di reno,Calderara di Reno,5,12521,44.566667,11.266667
+it,caldogno,Caldogno,20,10854,45.6,11.5
+it,calenzano,Calenzano,16,15349,43.85,11.15
+it,calolziocorte,Calolziocorte,9,14168,45.8,9.433333
+it,caltagirone,Caltagirone,15,38753,37.233333,14.516667
+it,caltanissetta,Caltanissetta,15,64189,37.483333,14.066667
+it,calvizzano,Calvizzano,4,13333,40.9,14.183333
+it,camaiore,Camaiore,16,30860,43.933333,10.3
+it,cameri,Cameri,12,10236,45.5,8.65
+it,campagna,Campagna,4,16760,40.666667,15.116667
+it,campi bisenzio,Campi Bisenzio,16,39555,43.816667,11.133333
+it,campiglia marittima,Campiglia Marittima,16,13014,43.05,10.616667
+it,campi salentina,Campi Salentina,13,11120,40.399444,18.018611
+it,campobasso,Campobasso,11,47569,41.566667,14.65
+it,campobello di licata,Campobello di Licata,15,11557,37.25,13.916667
+it,campobello di mazara,Campobello di Mazara,15,11225,37.633333,12.75
+it,campodarsego,Campodarsego,20,12327,45.5,11.9
+it,campolongo maggiore,Campolongo Maggiore,20,9607,45.321111,12.046667
+it,camponogara,Camponogara,20,11841,45.385,12.072222
+it,camposampiero,Camposampiero,20,11651,45.566667,11.933333
+it,canegrate,Canegrate,9,12649,45.566667,8.933333
+it,canelli,Canelli,12,10595,44.716667,8.283333
+it,canicatti,Canicatt�,15,32514,37.35,13.85
+it,canosa di puglia,Canosa di Puglia,13,30426,41.216667,16.066667
+it,cantu,Cant�,9,36513,45.733333,9.133333
+it,caorle,Caorle,20,11647,45.599722,12.883889
+it,capaccio,Capaccio,4,21122,40.416667,15.083333
+it,capaci,Capaci,15,10559,38.166667,13.233333
+it,capannori,Capannori,16,41274,43.833333,10.566667
+it,capoterra,Capoterra,14,25572,39.174444,8.971111
+it,capua,Capua,4,19209,41.1,14.2
+it,capurso,Capurso,13,14808,41.05,16.916667
+it,carate brianza,Carate Brianza,9,17114,45.683333,9.233333
+it,caravaggio,Caravaggio,9,14976,45.5,9.633333
+it,carbonera,Carbonera,20,10501,45.680556,12.288333
+it,carbonia,Carbonia,14,31508,39.167222,8.522222
+it,cardito,Cardito,4,20232,40.95,14.3
+it,cariati,Cariati,3,8058,39.5,16.95
+it,carini,Carini,15,29785,38.133333,13.183333
+it,carlentini,Carlentini,15,17572,37.266667,15.016667
+it,carmagnola,Carmagnola,12,25658,44.85,7.716667
+it,carmiano,Carmiano,13,12291,40.35,18.05
+it,carmignano,Carmignano,20,13366,45.15,11.65
+it,carovigno,Carovigno,13,15611,40.7,17.65
+it,carpenedolo,Carpenedolo,9,11306,45.366667,10.433333
+it,carpi,Carpi,5,63336,44.783333,10.883333
+it,carrara,Carrara,16,67228,44.083333,10.1
+it,carugate,Carugate,9,14033,45.55,9.333333
+it,casal di principe,Casal di Principe,4,19983,41.0,14.133333
+it,casalecchio di reno,Casalecchio di Reno,5,33288,44.466667,11.266667
+it,casale monferrato,Casale Monferrato,12,35337,45.133333,8.45
+it,casalgrande,Casalgrande,5,15082,44.583333,10.733333
+it,casalmaggiore,Casalmaggiore,9,14802,44.983333,10.433333
+it,casalnuovo di napoli,Casalnuovo di Napoli,4,52709,40.916667,14.333333
+it,casalpusterlengo,Casalpusterlengo,9,14586,45.183333,9.65
+it,casaluce,Casaluce,4,10243,41.0,14.2
+it,casamassima,Casamassima,13,17519,40.95,16.916667
+it,casandrino,Casandrino,4,13963,40.933333,14.25
+it,casarano,Casarano,13,20722,40.0,18.166667
+it,casatenovo,Casatenovo,9,13014,45.7,9.316667
+it,cascina,Cascina,16,40663,43.683333,10.55
+it,caselle torinese,Caselle Torinese,12,16826,45.166667,7.65
+it,caserta,Caserta,4,78598,41.066667,14.333333
+it,casoria,Casoria,4,78629,40.9,14.283333
+it,cassano delle murge,Cassano delle Murge,13,12545,40.883333,16.766667
+it,cassino,Cassino,7,35683,41.5,13.816667
+it,castano primo,Castano Primo,9,10792,45.55,8.783333
+it,castelbuono,Castelbuono,15,10129,37.933333,14.083333
+it,casteldaccia,Casteldaccia,15,9671,38.05,13.533333
+it,castelfidardo,Castelfidardo,10,17870,43.466667,13.55
+it,castelfiorentino,Castelfiorentino,16,17602,43.6,10.966667
+it,castelfranco di sotto,Castelfranco di Sotto,16,12130,43.7,10.75
+it,castelfranco emilia,Castelfranco Emilia,5,27398,44.616667,11.05
+it,castelfranco veneto,Castelfranco Veneto,20,33449,45.666667,11.916667
+it,castel goffredo,Castel Goffredo,9,10916,45.3,10.466667
+it,castellammare del golfo,Castellammare del Golfo,15,15504,38.016667,12.883333
+it,castellammare di stabia,Castellammare di Stabia,4,66944,40.7,14.483333
+it,castellamonte,Castellamonte,12,9437,45.383333,7.7
+it,castellana grotte,Castellana Grotte,13,18437,40.883333,17.166667
+it,castellaneta,Castellaneta,13,18022,40.633333,16.933333
+it,castellanza,Castellanza,9,14926,45.616667,8.9
+it,castellarano,Castellarano,5,13323,44.516667,10.733333
+it,castelletto sopra ticino,Castelletto sopra Ticino,12,9416,45.716667,8.633333
+it,castel maggiore,Castel Maggiore,5,17023,44.566667,11.366667
+it,castelnuovo rangone,Castelnuovo Rangone,5,13498,44.55,10.933333
+it,castel san giorgio,Castel San Giorgio,4,13460,40.783333,14.7
+it,castel san giovanni,Castel San Giovanni,5,12316,45.066667,9.433333
+it,castel san pietro terme,Castel San Pietro Terme,5,20368,44.4,11.583333
+it,casteltermini,Casteltermini,15,8384,37.533333,13.65
+it,castelvetrano,Castelvetrano,15,27286,37.683333,12.783333
+it,castelvetro di modena,Castelvetro di Modena,5,10604,44.5,10.95
+it,castel volturno,Castel Volturno,4,19652,41.033333,13.933333
+it,castenaso,Castenaso,5,14193,44.5,11.466667
+it,castiglione del lago,Castiglione del Lago,18,15309,43.116667,12.05
+it,castiglione delle stiviere,Castiglione delle Stiviere,9,20166,45.383333,10.483333
+it,castiglion fiorentino,Castiglion Fiorentino,16,12795,43.333333,11.916667
+it,castrolibero,Castrolibero,3,10495,39.3,16.183333
+it,castrovillari,Castrovillari,3,21094,39.816667,16.2
+it,catania,Catania,15,307331,37.5,15.1
+it,catanzaro,Catanzaro,3,91584,38.9,16.583333
+it,cattolica,Cattolica,5,16157,43.966667,12.733333
+it,cavallino,Cavallino,13,11878,40.3,18.2
+it,cavarzere,Cavarzere,20,15543,45.135556,12.081667
+it,cave,Cave,7,11014,41.816667,12.933333
+it,cazzago san martino,Cazzago San Martino,9,10732,45.583333,10.016667
+it,ceccano,Ceccano,7,24918,41.566667,13.333333
+it,cecina,Cecina,16,27969,43.316667,10.516667
+it,cefalu,Cefal�,15,14334,38.033333,14.016667
+it,ceglie messapica,C�glie Mess�pica,13,20695,40.65,17.516667
+it,celano,Celano,1,11701,42.083333,13.55
+it,cento,Cento,5,30001,44.716667,11.283333
+it,cercola,Cercola,4,19764,40.85,14.35
+it,cerea,Cerea,20,16046,45.2,11.216667
+it,cerignola,Cerignola,13,58888,41.266667,15.9
+it,cernusco sul naviglio,Cernusco sul Naviglio,9,27540,45.516667,9.316667
+it,cerreto guidi,Cerreto Guidi,16,10208,43.75,10.883333
+it,cerro maggiore,Cerro Maggiore,9,14181,45.6,8.95
+it,certaldo,Certaldo,16,16096,43.55,11.033333
+it,cerveteri,Cerveteri,7,33069,42.0,12.1
+it,cervia,Cervia,5,26914,44.261667,12.358889
+it,cervignano del friuli,Cervignano del Friuli,6,12674,45.821111,13.338056
+it,cesano maderno,Cesano Maderno,9,34758,45.633333,9.133333
+it,cesena,Cesena,5,92280,44.143333,12.249722
+it,cesenatico,Cesenatico,5,22479,44.198333,12.411667
+it,cetraro,Cetraro,3,10296,39.516667,15.933333
+it,chiampo,Chiampo,20,12865,45.55,11.283333
+it,chiaravalle,Chiaravalle,10,14334,43.6,13.316667
+it,chiari,Chiari,9,18414,45.533333,9.933333
+it,chiavari,Chiavari,8,27277,44.316667,9.316667
+it,chieri,Chieri,12,33804,45.016667,7.816667
+it,chieti,Chieti,1,51194,42.35,14.166667
+it,chioggia,Chioggia,20,53074,45.225556,12.288889
+it,chiusi,Chiusi,16,8100,43.016667,11.95
+it,chivasso,Chivasso,12,23591,45.183333,7.883333
+it,ciampino,Ciampino,7,40686,41.8,12.6
+it,cicciano,Cicciano,4,12266,40.966667,14.533333
+it,cingoli,Cingoli,10,10261,43.366667,13.216667
+it,cinisello balsamo,Cinisello Balsamo,9,74123,45.55,9.216667
+it,cinisi,Cinisi,15,11305,38.15,13.1
+it,cirie,Ciri�,12,18882,45.233333,7.6
+it,ciro marina,Cir� Marina,3,13929,39.366667,17.133333
+it,cisterna,Cisterna,7,35945,41.583333,12.816667
+it,cisternino,Cisternino,13,12265,40.733333,17.416667
+it,cittadella,Cittadella,20,19681,45.65,11.783333
+it,citta di castello,Citt� di Castello,18,39959,43.45,12.233333
+it,cittanova,Cittanova,3,10282,38.35,16.083333
+it,cividale del friuli,Cividale del Friuli,6,11590,46.093056,13.4275
+it,civita castellana,Civita Castellana,7,16785,42.283333,12.416667
+it,civitanova marche,Civitanova Marche,10,39288,43.3,13.733333
+it,civitavecchia,Civitavecchia,7,51480,42.1,11.8
+it,codigoro,Codigoro,5,13147,44.831111,12.114167
+it,codogno,Codogno,9,14558,45.15,9.7
+it,codroipo,Codroipo,6,14660,45.96,12.979167
+it,cogoleto,Cogoleto,8,9148,44.383333,8.65
+it,collecchio,Collecchio,5,12647,44.75,10.216667
+it,colleferro,Colleferro,7,22123,41.733333,12.983333
+it,collegno,Collegno,12,17767,45.083333,7.566667
+it,cologno al serio,Cologno al Serio,9,10175,45.583333,9.7
+it,cologno monzese,Cologno Monzese,9,47871,45.533333,9.283333
+it,comacchio,Comacchio,5,20054,44.6975,12.185833
+it,comiso,Comiso,15,29575,36.933333,14.6
+it,como,Como,9,78582,45.783333,9.083333
+it,concordia sagittaria,Concordia Sagittaria,20,10859,45.759444,12.840556
+it,concorezzo,Concorezzo,9,14646,45.583333,9.333333
+it,conegliano,Conegliano,20,36037,45.890556,12.2925
+it,conselice,Conselice,5,9011,44.516667,11.816667
+it,conversano,Conversano,13,24802,40.966667,17.116667
+it,copertino,Copertino,13,22105,40.266667,18.05
+it,copparo,Copparo,5,18110,44.9,11.816667
+it,corato,Corato,13,45276,41.15,16.416667
+it,corciano,Corciano,18,16983,43.133333,12.283333
+it,cordenons,Cordenons,6,17824,45.989722,12.701944
+it,cori,Cori,7,11826,41.65,12.916667
+it,corigliano calabro,Corigliano Calabro,3,36531,39.6,16.516667
+it,corleone,Corleone,15,11982,37.816667,13.3
+it,cormano,Cormano,9,18545,45.533333,9.166667
+it,cornaredo,Cornaredo,9,21091,45.5,9.016667
+it,cornedo vicentino,Cornedo Vicentino,20,11378,45.616667,11.333333
+it,correggio,Correggio,5,21540,44.766667,10.783333
+it,corridonia,Corridonia,10,14425,43.25,13.5
+it,corsico,Corsico,9,32168,45.433333,9.116667
+it,cortona,Cortona,16,22705,43.266667,11.983333
+it,cosenza,Cosenza,3,67380,39.3,16.25
+it,cossato,Cossato,12,15921,45.566667,8.166667
+it,creazzo,Creazzo,20,10529,45.366667,11.45
+it,crema,Crema,9,34359,45.366667,9.683333
+it,cremona,Cremona,9,70748,45.116667,10.033333
+it,crevalcore,Crevalcore,5,12413,44.716667,11.15
+it,crispiano,Crispiano,13,12663,40.605833,17.230278
+it,crotone,Crotone,3,48825,39.083333,17.133333
+it,cuneo,Cuneo,12,52500,44.383333,7.533333
+it,cuorgne,Cuorgn�,12,10371,45.383333,7.65
+it,cusano milanino,Cusano Milanino,9,19368,45.55,9.183333
+it,cutro,Cutro,3,10102,39.033333,16.983333
+it,cutrofiano,Cutrofiano,13,9105,40.116667,18.2
+it,dalmine,Dalmine,9,23928,45.65,9.6
+it,darfo,Darfo,9,14391,45.883333,10.183333
+it,desenzano del garda,Desenzano del Garda,9,25974,45.466667,10.533333
+it,desio,Desio,9,36708,45.616667,9.216667
+it,dolo,Dolo,20,15173,45.428333,12.0725
+it,domodossola,Domodossola,12,18887,46.116667,8.283333
+it,dueville,Dueville,20,13841,45.633333,11.533333
+it,eboli,Eboli,4,37120,40.6,15.066667
+it,empoli,Empoli,16,45971,43.716667,10.95
+it,enna,Enna,15,30785,37.566667,14.266667
+it,eraclea,Eraclea,20,13132,45.580556,12.675556
+it,erba,Erba,9,17258,45.8,9.25
+it,erchie,Erchie,13,8828,40.433333,17.733333
+it,ercolano,Ercolano,4,53341,40.8,14.35
+it,erice,Erice,15,25160,38.033333,12.583333
+it,este,Este,20,16790,45.233333,11.65
+it,fabriano,Fabriano,10,31087,43.333333,12.9
+it,faenza,Faenza,5,54919,44.283333,11.883333
+it,fagnano olona,Fagnano Olona,9,10957,45.666667,8.866667
+it,falconara marittima,Falconara Marittima,10,27917,43.616667,13.4
+it,fano,Fano,10,59864,43.833333,13.016667
+it,fara in sabina,Fara in Sabina,7,12825,42.2,12.716667
+it,fasano,Fasano,13,38871,40.833333,17.366667
+it,favara,Favara,15,31846,37.316667,13.65
+it,feltre,Feltre,20,19580,46.016667,11.9
+it,ferentino,Ferentino,7,22555,41.7,13.25
+it,fermo,Fermo,10,36060,43.15,13.716667
+it,ferrandina,Ferrandina,2,9092,40.483333,16.45
+it,ferrara,Ferrara,5,131252,44.833333,11.583333
+it,ficarazzi,Ficarazzi,15,10829,38.083333,13.466667
+it,fidenza,Fidenza,5,24218,44.866667,10.05
+it,fiesole,Fiesole,16,14295,43.8,11.283333
+it,figline valdarno,Figline Valdarno,16,17130,43.616667,11.466667
+it,filottrano,Filottrano,10,9550,43.433333,13.35
+it,finale emilia,Finale Emilia,5,15665,44.833333,11.283333
+it,finale ligure,Finale Ligure,8,11543,44.166667,8.333333
+it,fiorano modenese,Fiorano Modenese,5,16817,44.533333,10.816667
+it,fisciano,Fisciano,4,12790,40.766667,14.8
+it,fiume veneto,Fiume Veneto,6,10556,45.932778,12.730833
+it,fiumicino,Fiumicino,7,56970,41.766667,12.233333
+it,fivizzano,Fivizzano,16,8971,44.233333,10.133333
+it,florence,Florence,16,347194,43.766667,11.25
+it,floridia,Floridia,15,22616,37.083333,15.15
+it,foggia,Foggia,13,143826,41.45,15.566667
+it,foligno,Foligno,18,50616,42.95,12.7
+it,follonica,Follonica,16,21460,42.916667,10.75
+it,fondi,Fondi,7,35157,41.35,13.416667
+it,fontanafredda,Fontanafredda,6,9796,45.975556,12.568333
+it,forio,Forio,4,15939,40.733333,13.85
+it,forli,Forl�,5,111574,44.223611,12.052778
+it,forlimpopoli,Forlimpopoli,5,11622,44.194167,12.141111
+it,formello,Formello,7,11097,42.083333,12.4
+it,formia,Formia,7,40726,41.25,13.616667
+it,formigine,Formigine,5,32419,44.566667,10.85
+it,forte dei marmi,Forte dei Marmi,16,8177,43.95,10.166667
+it,fossano,Fossano,12,25133,44.55,7.716667
+it,fossombrone,Fossombrone,10,9621,43.683333,12.8
+it,francavilla al mare,Francavilla al Mare,1,26335,42.416667,14.283333
+it,francavilla fontana,Francavilla Fontana,13,37411,40.533333,17.583333
+it,francofonte,Francofonte,15,13398,37.233333,14.883333
+it,frascati,Frascati,7,21305,41.8,12.683333
+it,frattamaggiore,Frattamaggiore,4,31251,40.95,14.266667
+it,frattaminore,Frattaminore,4,15664,40.95,14.266667
+it,frosinone,Frosinone,7,49775,41.633333,13.316667
+it,fucecchio,Fucecchio,16,22187,43.733333,10.8
+it,gaeta,Gaeta,7,22566,41.2,13.583333
+it,galatina,Galatina,13,27985,40.166667,18.166667
+it,galatone,Galatone,13,15802,40.15,18.066667
+it,gallarate,Gallarate,9,48529,45.666667,8.783333
+it,galliate,Galliate,12,14035,45.483333,8.7
+it,gallipoli,Gallipoli,13,20588,40.055556,17.976389
+it,gambettola,Gambettola,5,9889,44.122778,12.343056
+it,garbagnate milanese,Garbagnate Milanese,9,29295,45.566667,9.066667
+it,gardone val trompia,Gardone Val Trompia,9,11478,45.683333,10.183333
+it,garlasco,Garlasco,9,9429,45.2,8.916667
+it,gavardo,Gavardo,9,10948,45.583333,10.433333
+it,gavirate,Gavirate,9,9910,45.833333,8.716667
+it,gela,Gela,15,74959,37.066667,14.25
+it,gemona,Gemona,6,11061,46.279444,13.143056
+it,genoa,Genoa,8,585815,44.416667,8.95
+it,genzano di roma,Genzano di Roma,7,24626,41.7,12.683333
+it,ghedi,Ghedi,9,16690,45.4,10.266667
+it,giarre,Giarre,15,27688,37.716667,15.183333
+it,giaveno,Giaveno,12,15884,45.033333,7.35
+it,giffoni valle piana,Giffoni Valle Piana,4,11523,40.733333,14.933333
+it,ginosa,Ginosa,13,22451,40.583333,16.75
+it,gioia del colle,Gioia del Colle,13,26205,40.8,16.916667
+it,gioia tauro,Gioia Tauro,3,18772,38.416667,15.9
+it,giovinazzo,Giovinazzo,13,19962,41.183333,16.666667
+it,giugliano in campania,Giugliano in Campania,4,107680,40.933333,14.2
+it,giulianova,Giulianova,1,22299,42.75,13.95
+it,giussano,Giussano,9,23745,45.7,9.233333
+it,goito,Goito,9,10185,45.25,10.666667
+it,gorgonzola,Gorgonzola,9,19167,45.533333,9.4
+it,gorizia,Gorizia,6,34602,45.945,13.597778
+it,grado,Grado,6,8658,45.678611,13.386944
+it,gragnano,Gragnano,4,29227,40.683333,14.516667
+it,grammichele,Grammichele,15,12797,37.216667,14.633333
+it,gravina in puglia,Gravina in Puglia,13,43640,40.816667,16.416667
+it,grezzana,Grezzana,20,10706,45.516667,11.016667
+it,grosseto,Grosseto,16,72328,42.766667,11.133333
+it,grottaferrata,Grottaferrata,7,19485,41.783333,12.666667
+it,grottaglie,Grottaglie,13,31543,40.533333,17.433333
+it,grottammare,Grottammare,10,15057,42.983333,13.866667
+it,grugliasco,Grugliasco,12,37599,45.066667,7.583333
+it,grumo appula,Grumo Appula,13,12677,41.016667,16.7
+it,grumo nevano,Grumo Nevano,4,18623,40.933333,14.266667
+it,gualdo tadino,Gualdo Tadino,18,16216,43.233333,12.783333
+it,guardiagrele,Guardiagrele,1,10451,42.183333,14.216667
+it,guastalla,Guastalla,5,14572,44.916667,10.65
+it,gubbio,Gubbio,18,31742,43.35,12.583333
+it,guidonia,Guidonia,7,81837,42.016667,12.75
+it,guspini,Guspini,14,13229,39.540556,8.629444
+it,gussago,Gussago,9,15585,45.583333,10.15
+it,iesolo,Iesolo,20,22976,45.539444,12.649444
+it,iglesias,Iglesias,14,30851,39.311389,8.535
+it,imola,Imola,5,66903,44.35,11.7
+it,imperia,Imperia,8,39987,43.883333,8.05
+it,impruneta,Impruneta,16,14949,43.683333,11.25
+it,induno olona,Induno Olona,9,10325,45.85,8.833333
+it,ischia,Ischia,4,18621,40.733333,13.95
+it,isernia,Isernia,11,21409,41.6,14.233333
+it,isola della scala,Isola della Scala,20,10879,45.266667,11.0
+it,isola del liri,Isola del Liri,7,12893,41.683333,13.566667
+it,ispica,Ispica,15,15238,36.783333,14.916667
+it,ittiri,Ittiri,14,9593,40.6,8.566667
+it,ivrea,Ivrea,12,23680,45.466667,7.866667
+it,jesi,Jesi,10,39463,43.516667,13.233333
+it,ladispoli,Ladispoli,7,34995,41.933333,12.083333
+it,lainate,Lainate,9,25446,45.566667,9.033333
+it,laives,Laives,17,15989,46.433333,11.333333
+it,la maddalena,La Maddalena,14,11885,41.216667,9.4
+it,lana,Lana,17,10341,46.616667,11.15
+it,lanciano,Lanciano,1,38351,42.233333,14.383333
+it,lanuvio,Lanuvio,7,11458,41.666667,12.7
+it,lariano,Lariano,7,12092,41.716667,12.833333
+it,la spezia,La Spezia,8,89012,44.116667,9.833333
+it,lastra a signa,Lastra a Signa,16,18870,43.766667,11.1
+it,laterza,Laterza,13,15268,40.616667,16.8
+it,latiano,Latiano,13,15321,40.55,17.716667
+it,latina,Latina,7,124330,41.466667,12.866667
+it,latisana,Latisana,6,12432,45.779167,13.0
+it,lauria,Lauria,2,13507,40.033333,15.833333
+it,lavagna,Lavagna,8,13002,44.3,9.333333
+it,lavello,Lavello,2,12774,41.05,15.8
+it,lecce,Lecce,13,79259,40.383333,18.183333
+it,lecco,Lecco,9,47113,45.85,9.383333
+it,leghorn,Leghorn,16,146762,43.55,10.316667
+it,legnago,Legnago,20,24319,45.183333,11.3
+it,legnano,Legnano,9,57996,45.6,8.9
+it,leini,Lein�,12,12343,45.183333,7.716667
+it,lendinara,Lendinara,20,12477,45.083333,11.6
+it,leno,Leno,9,13604,45.366667,10.216667
+it,lentate sul seveso,Lentate sul Seveso,9,15205,45.683333,9.116667
+it,lentini,Lentini,15,23235,37.283333,15.0
+it,leonforte,Leonforte,15,14576,37.633333,14.383333
+it,lerici,Lerici,8,10684,44.066667,9.916667
+it,leverano,Leverano,13,13795,40.283333,18.0
+it,licata,Licata,15,35018,37.1,13.933333
+it,limbiate,Limbiate,9,31736,45.6,9.116667
+it,lipari,Lipari,15,10649,38.466667,14.95
+it,lissone,Lissone,9,37137,45.616667,9.233333
+it,lizzanello,Lizzanello,13,10737,40.3,18.216667
+it,lizzano,Lizzano,13,10376,40.383333,17.45
+it,loano,Loano,8,10375,44.133333,8.25
+it,locorotondo,Locorotondo,13,14294,40.75,17.333333
+it,locri,Locri,3,12994,38.233333,16.266667
+it,lodi,Lodi,9,41043,45.316667,9.5
+it,lonate pozzolo,Lonate Pozzolo,9,12316,45.6,8.75
+it,lonato,Lonato,9,13196,45.45,10.483333
+it,lonigo,Lonigo,20,15001,45.383333,11.383333
+it,loreto,Loreto,10,11701,43.433333,13.6
+it,lucca,Lucca,16,80617,43.833333,10.483333
+it,lucera,Lucera,13,35396,41.5,15.333333
+it,lugo,Lugo,5,32235,44.416667,11.9
+it,luino,Luino,9,14450,46.0,8.733333
+it,lurate caccivio,Lurate Caccivio,9,10369,45.766667,9.016667
+it,luzzi,Luzzi,3,10338,39.45,16.283333
+it,macerata,Macerata,10,40893,43.3,13.45
+it,macomer,Macomer,14,11796,40.266667,8.783333
+it,maddaloni,Maddaloni,4,38099,41.033333,14.383333
+it,magenta,Magenta,9,23621,45.466667,8.883333
+it,magione,Magione,18,13326,43.133333,12.2
+it,maglie,Maglie,13,15295,40.116667,18.3
+it,malnate,Malnate,9,16282,45.8,8.883333
+it,malo,Malo,20,13107,45.65,11.4
+it,mandello del lario,Mandello del Lario,9,10196,45.9,9.316667
+it,manduria,Manduria,13,30534,40.4,17.633333
+it,manerbio,Manerbio,9,13349,45.35,10.133333
+it,manfredonia,Manfredonia,13,57015,41.633333,15.916667
+it,maniago,Maniago,6,12299,46.170556,12.707778
+it,mantova,Mantova,9,45959,45.15,10.8
+it,maranello,Maranello,5,16988,44.533333,10.866667
+it,marano di napoli,Marano di Napoli,4,50885,40.9,14.183333
+it,marcianise,Marcianise,4,41726,41.033333,14.283333
+it,marcon,Marcon,20,13368,45.564444,12.298889
+it,margherita di savoia,Margherita di Savoia,13,12589,41.366667,16.15
+it,mariano comense,Mariano Comense,9,21877,45.7,9.183333
+it,marigliano,Marigliano,4,31772,40.933333,14.45
+it,marino,Marino,7,32905,41.766667,12.65
+it,marostica,Marostica,20,13401,45.75,11.65
+it,marsala,Marsala,15,80755,37.8,12.433333
+it,marsciano,Marsciano,18,17262,42.9,12.333333
+it,martano,Martano,13,9644,40.2,18.3
+it,martellago,Martellago,20,20335,45.5475,12.15
+it,martina franca,Martina Franca,13,48233,40.7,17.333333
+it,martinsicuro,Martinsicuro,1,15030,42.883333,13.916667
+it,mascali,Mascali,15,12525,37.75,15.2
+it,mascalucia,Mascalucia,15,27703,37.566667,15.05
+it,massafra,Massafra,13,31436,40.591944,17.115278
+it,massa marittima,Massa Marittima,16,8924,43.05,10.883333
+it,massa,Massa,16,68318,44.016667,10.15
+it,massarosa,Massarosa,16,21262,43.866667,10.333333
+it,matelica,Matelica,10,10294,43.25,13.0
+it,matera,Matera,2,57250,40.666667,16.6
+it,matino,Matino,13,11410,40.033333,18.133333
+it,mazara del vallo,Mazara del Vallo,15,50979,37.65,12.583333
+it,mazzarino,Mazzarino,15,12483,37.3,14.216667
+it,meda,Meda,9,22048,45.666667,9.15
+it,medicina,Medicina,5,14065,44.466667,11.633333
+it,melegnano,Melegnano,9,16155,45.35,9.316667
+it,melendugno,Melendugno,13,9554,40.266667,18.333333
+it,melfi,Melfi,2,15897,41.0,15.65
+it,melilli,Melilli,15,13211,37.183333,15.116667
+it,melito di napoli,Melito di Napoli,4,41291,40.916667,14.233333
+it,melito di porto salvo,Melito di Porto Salvo,3,10602,37.916667,15.783333
+it,melzo,Melzo,9,19453,45.5,9.416667
+it,menfi,Menfi,15,13231,37.6,12.966667
+it,mentana,Mentana,7,14925,42.033333,12.633333
+it,merano,Merano,17,33514,46.666667,11.15
+it,merate,Merate,9,14801,45.7,9.416667
+it,mercato san severino,Mercato San Severino,4,20954,40.783333,14.766667
+it,mercogliano,Mercogliano,4,13046,40.916667,14.733333
+it,mesagne,Mesagne,13,26981,40.566667,17.8
+it,messina,Messina,15,237956,38.183333,15.566667
+it,milan,Milan,9,1156903,45.466667,9.2
+it,milazzo,Milazzo,15,30778,38.216667,15.233333
+it,militello in val di catania,Militello in Val di Catania,15,8035,37.266667,14.8
+it,minervino murge,Minervino Murge,13,9955,41.083333,16.083333
+it,minturno,Minturno,7,19520,41.25,13.75
+it,mira,Mira,20,36219,45.43,12.119722
+it,mirandola,Mirandola,5,22173,44.883333,11.066667
+it,mirano,Mirano,20,27152,45.494444,12.104722
+it,misilmeri,Misilmeri,15,25692,38.033333,13.45
+it,misterbianco,Misterbianco,15,46600,37.516667,15.0
+it,modena,Modena,5,180641,44.666667,10.916667
+it,modica,Modica,15,56282,36.866667,14.766667
+it,modugno,Modugno,13,36208,41.083333,16.783333
+it,mogliano veneto,Mogliano Veneto,20,27612,45.565,12.235
+it,mola di bari,Mola di Bari,13,23918,41.066667,17.083333
+it,molfetta,Molfetta,13,61308,41.2,16.6
+it,molinella,Molinella,5,14943,44.616667,11.666667
+it,moncalieri,Moncalieri,12,52820,45.0,7.683333
+it,mondolfo,Mondolfo,10,11477,43.75,13.1
+it,mondovi,Mondov�,12,22457,44.383333,7.816667
+it,mondragone,Mondragone,4,24810,41.116667,13.883333
+it,monfalcone,Monfalcone,6,26331,45.807222,13.534167
+it,monopoli,Monopoli,13,50064,40.95,17.3
+it,monreale,Monreale,15,34544,38.083333,13.283333
+it,monselice,Monselice,20,16815,45.233333,11.75
+it,monserrato,Monserrato,14,23415,39.256111,9.139722
+it,monsummano terme,Monsummano Terme,16,21415,43.866667,10.816667
+it,montagnana,Montagnana,20,9607,45.233333,11.466667
+it,montale,Montale,16,10704,43.933333,11.016667
+it,montalto uffugo,Montalto Uffugo,3,19140,39.4,16.15
+it,montebelluna,Montebelluna,20,28562,45.775278,12.038889
+it,montecchio maggiore,Montecchio Maggiore,20,21875,45.5,11.4
+it,montecorvino rovella,Montecorvino Rovella,4,12208,40.7,14.983333
+it,monte di procida,Monte di Procida,4,12757,40.8,14.05
+it,montefiascone,Montefiascone,7,13326,42.533333,12.033333
+it,montegranaro,Montegranaro,10,13039,43.233333,13.633333
+it,montegrotto terme,Montegrotto Terme,20,10865,45.316667,11.766667
+it,montelupo fiorentino,Montelupo Fiorentino,16,12146,43.733333,11.016667
+it,montemarciano,Montemarciano,10,10012,43.633333,13.316667
+it,montemurlo,Montemurlo,16,18352,43.916667,11.05
+it,monteprandone,Monteprandone,10,11113,42.916667,13.833333
+it,montepulciano,Montepulciano,16,14389,43.083333,11.783333
+it,monteroni di lecce,Monteroni di Lecce,13,13908,40.316667,18.1
+it,monterotondo,Monterotondo,7,40249,42.05,12.616667
+it,monte san giovanni campano,Monte San Giovanni Campano,7,13538,41.633333,13.516667
+it,monte san pietro,Monte San Pietro,5,12106,44.433333,11.133333
+it,montesarchio,Montesarchio,4,13110,41.066667,14.633333
+it,montescaglioso,Montescaglioso,2,10005,40.55,16.666667
+it,montesilvano,Montesilvano,1,43237,42.483333,14.133333
+it,montespertoli,Montespertoli,16,12723,43.633333,11.066667
+it,montevarchi,Montevarchi,16,22987,43.516667,11.566667
+it,montichiari,Montichiari,9,21041,45.416667,10.383333
+it,montignoso,Montignoso,16,10804,44.016667,10.166667
+it,montorio al vomano,Montorio al Vomano,1,8223,42.583333,13.633333
+it,monza,Monza,9,120857,45.583333,9.266667
+it,morbegno,Morbegno,9,11775,46.133333,9.566667
+it,morrovalle,Morrovalle,10,9723,43.316667,13.566667
+it,mortara,Mortara,9,14300,45.25,8.733333
+it,motta di livenza,Motta di Livenza,20,10501,45.778056,12.602778
+it,mottola,Mottola,13,16686,40.635278,17.035278
+it,muggia,M�ggia,6,13470,45.603056,13.767222
+it,muggio,Muggi�,9,21561,45.583333,9.216667
+it,mugnano di napoli,Mugnano di Napoli,4,32847,40.916667,14.2
+it,musile di piave,Musile di Piave,20,10779,45.616667,12.55
+it,mussomeli,Mussomeli,15,11846,37.583333,13.75
+it,naples,Naples,4,981284,40.833333,14.25
+it,nardo,Nard�,13,31294,40.183333,18.033333
+it,narni,Narni,18,20567,42.516667,12.516667
+it,naro,Naro,15,8747,37.3,13.783333
+it,nave,Nave,9,11001,45.583333,10.283333
+it,negrar,Negrar,20,18134,45.533333,10.916667
+it,nembro,Nembro,9,11635,45.75,9.75
+it,nerviano,Nerviano,9,18000,45.55,8.966667
+it,nettuno,Nettuno,7,40642,41.45,12.65
+it,nichelino,Nichelino,12,49474,44.983333,7.633333
+it,nicosia,Nicosia,15,15416,37.75,14.4
+it,niscemi,Niscemi,15,29459,37.15,14.383333
+it,nizza monferrato,Nizza Monferrato,12,10391,44.766667,8.35
+it,noale,Noale,20,15512,45.553333,12.071944
+it,nocera inferiore,Nocera Inferiore,4,48798,40.733333,14.633333
+it,nocera superiore,Nocera Superiore,4,22898,40.733333,14.666667
+it,noceto,Noceto,5,11258,44.8,10.183333
+it,noci,Noci,13,19993,40.8,17.116667
+it,noicattaro,Noicattaro,13,25022,41.033333,16.983333
+it,nola,Nola,4,32872,40.916667,14.55
+it,nonantola,Nonantola,5,13544,44.683333,11.033333
+it,noto,Noto,15,24049,36.883333,15.066667
+it,nova milanese,Nova Milanese,9,23655,45.583333,9.2
+it,novara,Novara,12,105903,45.466667,8.633333
+it,novate milanese,Novate Milanese,9,20576,45.533333,9.133333
+it,novellara,Novellara,5,12598,44.85,10.733333
+it,novi di modena,Novi di Modena,5,10896,44.9,10.9
+it,novi ligure,Novi Ligure,12,27115,44.766667,8.783333
+it,nuoro,Nuoro,14,38543,40.316667,9.35
+it,occhiobello,Occhiobello,20,10500,44.916667,11.583333
+it,oderzo,Oderzo,20,18158,45.78,12.488056
+it,olbia,Olbia,14,44903,40.916667,9.516667
+it,oleggio,Oleggio,12,13097,45.6,8.633333
+it,olgiate comasco,Olgiate Comasco,9,11261,45.8,8.966667
+it,olgiate olona,Olgiate Olona,9,11628,45.633333,8.883333
+it,omegna,Omegna,12,15940,45.883333,8.4
+it,opera,Opera,9,13986,45.366667,9.2
+it,orbassano,Orbassano,12,22805,45.016667,7.533333
+it,orbetello,Orbetello,16,14805,42.45,11.216667
+it,oria,Oria,13,15505,40.5,17.633333
+it,oristano,Oristano,14,30069,39.903056,8.591944
+it,orta nova,Orta Nova,13,17873,41.316667,15.7
+it,ortona,Ortona,1,22874,42.35,14.4
+it,orvieto,Orvieto,18,21573,42.716667,12.116667
+it,orzinuovi,Orzinuovi,9,12022,45.4,9.916667
+it,osimo,Osimo,10,30463,43.483333,13.483333
+it,ospitaletto,Ospitaletto,9,12368,45.133333,10.6
+it,ostuni,Ostuni,13,32604,40.733333,17.583333
+it,ottaviano,Ottaviano,4,23161,40.85,14.466667
+it,ovada,Ovada,12,11898,44.633333,8.633333
+it,ozieri,Ozieri,14,11924,40.583333,9.0
+it,paceco,Paceco,15,11418,37.983333,12.55
+it,pachino,Pachino,15,22301,36.716667,15.083333
+it,paderno dugnano,Paderno Dugnano,9,47733,45.55,9.166667
+it,padova,Padova,20,205247,45.416667,11.883333
+it,paese,Paese,20,20224,45.674167,12.163889
+it,pagani,Pagani,4,32580,40.75,14.616667
+it,palagiano,Palagiano,13,16426,40.578889,17.038611
+it,palagonia,Palagonia,15,17745,37.316667,14.75
+it,palazzolo acreide,Palazzolo Acreide,15,9548,37.066667,14.9
+it,palermo,Palermo,15,669582,38.116667,13.366667
+it,palestrina,Palestrina,7,18697,41.833333,12.883333
+it,palma campania,Palma Campania,4,14741,40.866667,14.55
+it,palma di montechiaro,Palma di Montechiaro,15,21567,37.183333,13.766667
+it,palmi,Palmi,3,19317,38.35,15.85
+it,palo del colle,Palo del Colle,13,22505,41.05,16.7
+it,palombara sabina,Palombara Sabina,7,12787,42.066667,12.766667
+it,paola,Paola,3,16896,39.35,16.033333
+it,parabiago,Parabiago,9,25186,45.55,8.95
+it,parabita,Parabita,13,9804,40.05,18.133333
+it,parma,Parma,5,155693,44.8,10.333333
+it,partanna,Partanna,15,11852,37.716667,12.883333
+it,partinico,Partinico,15,32870,38.05,13.116667
+it,paterno,Paterno,15,47042,37.566667,14.9
+it,patti,Patti,15,13703,38.133333,14.966667
+it,paullo,Paullo,9,10758,45.416667,9.4
+it,pavia,Pavia,9,71520,45.166667,9.166667
+it,pavullo nel frignano,Pavullo nel Frignano,5,16114,44.333333,10.833333
+it,pedara,Pedara,15,11579,37.633333,15.066667
+it,pellezzano,Pellezzano,4,10969,40.716667,14.75
+it,penne,Penne,1,13394,42.45,13.916667
+it,pergine valsugana,Pergine Valsugana,17,17883,46.066667,11.233333
+it,perugia,Perugia,18,157077,43.133333,12.366667
+it,pesaro,Pesaro,10,91817,43.9,12.916667
+it,pescantina,Pescantina,20,14175,45.483333,10.85
+it,pescara,Pescara,1,118136,42.466667,14.216667
+it,pescia,Pescia,16,17868,43.9,10.683333
+it,petilia policastro,Petilia Policastro,3,9159,39.116667,16.783333
+it,piacenza,Piacenza,5,95453,45.016667,9.666667
+it,pianezza,Pianezza,12,11672,45.1,7.55
+it,piano di sorrento,Piano di Sorrento,4,13111,40.633333,14.383333
+it,pianoro,Pianoro,5,17497,44.366667,11.333333
+it,piazza armerina,Piazza Armerina,15,21864,37.383333,14.366667
+it,piazzola sul brenta,Piazzola sul Brenta,20,11204,45.533333,11.783333
+it,pietra ligure,Pietra Ligure,8,8301,44.15,8.283333
+it,pietrasanta,Pietrasanta,16,24625,43.95,10.233333
+it,pieve di soligo,Pieve di Soligo,20,11642,45.9025,12.177222
+it,pinerolo,Pinerolo,12,33807,44.883333,7.35
+it,pineto,Pineto,1,14469,42.6,14.066667
+it,pioltello,Pioltello,9,32312,45.5,9.333333
+it,piombino,Piombino,16,34114,42.916667,10.533333
+it,piossasco,Piossasco,12,17036,44.983333,7.466667
+it,piove di sacco,Piove di Sacco,20,18196,45.2975,12.042778
+it,pisa,Pisa,16,83803,43.716667,10.383333
+it,pisticci,Pisticci,2,17393,40.383333,16.55
+it,pistoia,Pistoia,16,85267,43.916667,10.9
+it,poggibonsi,Poggibonsi,16,28619,43.466667,11.15
+it,poggiomarino,Poggiomarino,4,21214,40.8,14.533333
+it,poirino,Poirino,12,9404,44.916667,7.85
+it,policoro,Policoro,2,15083,40.216667,16.683333
+it,polignano a mare,Polignano a Mare,13,16462,41.0,17.216667
+it,polistena,Polistena,3,11637,38.4,16.066667
+it,pomezia,Pomezia,7,48859,41.666667,12.5
+it,pompei,Pompei,4,26251,40.75,14.5
+it,ponsacco,Ponsacco,16,13257,43.616667,10.633333
+it,pontassieve,Pontassieve,16,21423,43.766667,11.433333
+it,pontecagnano,Pontecagnano,4,22997,40.633333,14.883333
+it,pontecorvo,Pontecorvo,7,14863,41.45,13.666667
+it,pontedera,Pontedera,16,26713,43.666667,10.633333
+it,ponte san nicolo,Ponte San Nicol�,20,13148,45.366667,11.616667
+it,ponte san pietro,Ponte San Pietro,9,9873,45.7,9.583333
+it,pontinia,Pontinia,7,14621,41.4,13.033333
+it,porcia,Porcia,6,13981,45.96,12.607222
+it,pordenone,Pordenone,6,48581,45.963889,12.6575
+it,portici,Portici,4,55775,40.816667,14.333333
+it,porto empedocle,Porto Empedocle,15,16110,37.283333,13.533333
+it,portoferraio,Portoferraio,16,10102,42.816667,10.316667
+it,portogruaro,Portogruaro,20,23843,45.775278,12.838611
+it,portomaggiore,Portomaggiore,5,11910,44.7,11.8
+it,porto recanati,Porto Recanati,10,10233,43.433333,13.666667
+it,porto san giorgio,Porto San Giorgio,10,16010,43.183333,13.8
+it,porto tolle,Porto Tolle,20,10894,44.933333,12.366667
+it,porto torres,Porto Torres,14,22302,40.835,8.397222
+it,potenza picena,Potenza Picena,10,15044,43.366667,13.616667
+it,potenza,Potenza,2,68823,40.633333,15.8
+it,pozzallo,Pozzallo,15,19030,36.716667,14.85
+it,pozzuoli,Pozzuoli,4,81237,40.816667,14.116667
+it,prato,Prato,16,178915,43.883333,11.1
+it,preganziol,Preganziol,20,15877,45.601389,12.237222
+it,priolo gargallo,Priolo Gargallo,15,12498,37.15,15.183333
+it,priverno,Priverno,7,14494,41.466667,13.183333
+it,procida,Procida,4,10835,40.766667,14.033333
+it,pulsano,Pulsano,13,10191,40.383333,17.35
+it,putignano,Putignano,13,27994,40.85,17.116667
+it,qualiano,Qualiano,4,27149,40.916667,14.15
+it,quartucciu,Quartucciu,14,12145,39.251944,9.179444
+it,quattro castella,Quattro Castella,5,12369,44.633333,10.466667
+it,quinto di treviso,Quinto di Treviso,20,9726,45.648056,12.166667
+it,racale,Racale,13,10502,39.95,18.1
+it,racalmuto,Racalmuto,15,10076,37.4,13.733333
+it,racconigi,Racconigi,12,10128,44.766667,7.766667
+it,raffadali,Raffadali,15,14023,37.4,13.533333
+it,ragusa,Ragusa,15,72631,36.916667,14.733333
+it,ramacca,Ramacca,15,11219,37.383333,14.7
+it,randazzo,Randazzo,15,11731,37.883333,14.95
+it,rapallo,Rapallo,8,29379,44.35,9.233333
+it,ravanusa,Ravanusa,15,13492,37.266667,13.966667
+it,ravenna,Ravenna,5,143396,44.4175,12.201111
+it,recanati,Recanati,10,20540,43.4,13.533333
+it,recco,Recco,8,10341,44.366667,9.15
+it,reggello,Reggello,16,15388,43.683333,11.533333
+it,reggio di calabria,Reggio di Calabria,3,181990,38.1,15.65
+it,rende,Rende,3,36400,39.333333,16.183333
+it,rescaldina,Rescaldina,9,14194,45.616667,8.95
+it,rezzato,Rezzato,9,13190,45.516667,10.316667
+it,rho,Rho,9,53558,45.533333,9.033333
+it,ribera,Ribera,15,21086,37.5,13.266667
+it,riccione,Riccione,5,34228,43.983333,12.65
+it,riese,Riese,20,10568,45.733333,11.916667
+it,riesi,Riesi,15,11322,37.283333,14.083333
+it,rieti,Rieti,7,45355,42.4,12.85
+it,rimini,Rimini,5,132031,44.063333,12.580833
+it,rionero in vulture,Rionero in Vulture,2,13399,40.916667,15.666667
+it,riposto,Riposto,15,14054,37.733333,15.2
+it,rivalta di torino,Rivalta di Torino,12,19069,45.033333,7.516667
+it,riva,Riva,17,15389,45.783333,11.1
+it,rivarolo canavese,Rivarolo Canavese,12,12497,45.316667,7.716667
+it,rivoli,Rivoli,12,49959,45.066667,7.516667
+it,rocca di papa,Rocca di Papa,7,15026,41.766667,12.7
+it,roccapiemonte,Roccapiemonte,4,9368,40.766667,14.683333
+it,rocca priora,Rocca Priora,7,11117,41.8,12.75
+it,roccastrada,Roccastrada,16,9470,43.0,11.166667
+it,romano di lombardia,Romano di Lombardia,9,16358,45.516667,9.75
+it,rome,Rome,7,2643736,41.9,12.483333
+it,roncade,Roncade,20,12540,45.63,12.374167
+it,ronchi dei legionari,Ronchi dei Legionari,6,11746,45.823611,13.509722
+it,rosarno,Rosarno,3,15558,38.483333,15.966667
+it,rosa,Rosa,6,13186,45.930556,12.870833
+it,roseto degli abruzzi,Roseto degli Abruzzi,1,22868,42.683333,14.016667
+it,rosignano marittimo,Rosignano Marittimo,16,31871,43.4,10.466667
+it,rosolini,Rosolini,15,20671,36.816667,14.95
+it,rossano,Rossano,3,35073,39.566667,16.633333
+it,rovato,Rovato,9,15569,45.566667,10.0
+it,rovereto,Rovereto,17,33510,45.883333,11.033333
+it,rovigo,Rovigo,20,48634,45.066667,11.783333
+it,rozzano,Rozzano,9,36179,45.366667,9.15
+it,rubano,Rubano,20,14458,45.433333,11.783333
+it,rubiera,Rubiera,5,12617,44.65,10.783333
+it,ruffano,Ruffano,13,9186,39.983333,18.25
+it,russi,Russi,5,10712,44.3725,12.032222
+it,rutigliano,Rutigliano,13,18115,41.016667,17.0
+it,ruvo di puglia,Ruvo di Puglia,13,26385,41.116667,16.483333
+it,sabaudia,Sabaudia,7,18951,41.3,13.016667
+it,sacile,Sacile,6,18935,45.955278,12.501944
+it,sala consilina,Sala Consilina,4,12903,40.383333,15.6
+it,salemi,Salemi,15,11937,37.816667,12.8
+it,salerno,Salerno,4,144147,40.683333,14.783333
+it,salice salentino,Salice Salentino,13,8932,40.383333,17.966667
+it,salo,Sal�,9,10525,45.6,10.516667
+it,salsomaggiore terme,Salsomaggiore Terme,5,18565,44.816667,9.983333
+it,saluzzo,Saluzzo,12,16080,44.65,7.483333
+it,salzano,Salzano,20,12306,45.521944,12.108333
+it,samarate,Samarate,9,16128,45.633333,8.783333
+it,san benedetto del tronto,San Benedetto del Tronto,10,43767,42.95,13.883333
+it,san bonifacio,San Bonifacio,20,18684,45.4,11.266667
+it,san cataldo,San Cataldo,15,24487,37.483333,13.983333
+it,san cesareo,San Cesareo,7,11312,41.816667,12.8
+it,san dona di piave,San Don� di Piave,20,37452,45.631667,12.569444
+it,san donato milanese,San Donato Milanese,9,33116,45.416667,9.266667
+it,san felice sul panaro,San Felice sul Panaro,5,10589,44.833333,11.133333
+it,san ferdinando di puglia,San Ferdinando di Puglia,13,14792,41.3,16.066667
+it,san gavino monreale,San Gavino Monreale,14,9814,39.551389,8.791667
+it,san gennaro vesuviano,San Gennaro Vesuviano,4,10955,40.883333,14.533333
+it,san giorgio a cremano,San Giorgio a Cremano,4,50887,40.833333,14.333333
+it,san giorgio del sannio,San Giorgio del Sannio,4,9929,41.066667,14.85
+it,san giorgio ionico,San Giorgio Ionico,13,15682,40.45,17.383333
+it,san giovanni in fiore,San Giovanni in Fiore,3,17202,39.25,16.7
+it,san giovanni in persiceto,San Giovanni in Persiceto,5,25344,44.633333,11.183333
+it,san giovanni la punta,San Giovanni la Punta,15,22970,37.583333,15.116667
+it,san giovanni lupatoto,San Giovanni Lupatoto,20,22034,45.383333,11.05
+it,san giovanni rotondo,San Giovanni Rotondo,13,27228,41.7,15.733333
+it,san giovanni valdarno,San Giovanni Valdarno,16,17245,43.566667,11.533333
+it,san giuliano milanese,San Giuliano Milanese,9,32437,45.4,9.283333
+it,san giuliano terme,San Giuliano Terme,16,32516,43.766667,10.433333
+it,san giuseppe jato,San Giuseppe Jato,15,8380,37.966667,13.183333
+it,san giuseppe vesuviano,San Giuseppe Vesuviano,4,22551,40.833333,14.5
+it,san giustino,San Giustino,18,11138,43.55,12.166667
+it,san gregorio di catania,San Gregorio di Catania,15,11616,37.566667,15.1
+it,san lazzaro di savena,San Lazzaro di Savena,5,29962,44.466667,11.416667
+it,san marco in lamis,San Marco in Lamis,13,16109,41.716667,15.633333
+it,san martino buon albergo,San Martino Buon Albergo,20,13471,45.416667,11.083333
+it,san martino di lupari,San Martino di Lupari,20,12023,45.65,11.85
+it,san marzano sul sarno,San Marzano sul Sarno,4,9501,40.766667,14.583333
+it,san mauro torinese,San Mauro Torinese,12,18799,45.1,7.766667
+it,san michele al tagliamento,San Michele al Tagliamento,20,11602,45.7625,12.999444
+it,san miniato,San Miniato,16,27806,43.683333,10.85
+it,sannicandro di bari,Sannicandro di Bari,13,9761,41.0,16.8
+it,san nicola,San Nicola,3,19627,38.266667,15.8
+it,san pancrazio salentino,San Pancrazio Salentino,13,10546,40.416667,17.833333
+it,san pietro in casale,San Pietro in Casale,5,10667,44.7,11.4
+it,san pietro vernotico,San Pietro Vernotico,13,14779,40.485278,17.999722
+it,san prisco,San Prisco,4,10730,41.083333,14.266667
+it,san remo,San Remo,8,49053,43.816667,7.766667
+it,san salvo,San Salvo,1,19249,42.05,14.733333
+it,san sebastiano al vesuvio,San Sebastiano al Vesuvio,4,9931,40.833333,14.366667
+it,sansepolcro,Sansepolcro,16,16302,43.566667,12.133333
+it,san severino marche,San Severino Marche,10,12896,43.216667,13.166667
+it,san severo,San Severo,13,56708,41.683333,15.383333
+it,santa flavia,Santa Flavia,15,10630,38.083333,13.516667
+it,santa margherita ligure,Santa Margherita Ligure,8,10310,44.333333,9.2
+it,santa maria a monte,Santa Maria a Monte,16,11384,43.7,10.7
+it,santa maria a vico,Santa Maria a Vico,4,14211,41.033333,14.483333
+it,santa maria capua vetere,Santa Maria Capua Vetere,4,29780,41.083333,14.25
+it,santa maria di sala,Santa Maria di Sala,20,15322,45.506944,12.029722
+it,santa marinella,Santa Marinella,7,17577,42.033333,11.85
+it,santeramo in colle,Santeramo in Colle,13,27024,40.8,16.75
+it,santhia,Santhi�,12,9614,45.366667,8.166667
+it,santo stino di livenza,Santo Stino di Livenza,20,12294,45.735,12.680833
+it,san vito al tagliamento,San Vito al Tagliamento,6,13834,45.914444,12.85
+it,san vito dei normanni,San Vito dei Normanni,13,20057,40.65,17.7
+it,sarezzo,Sarezzo,9,12423,45.65,10.2
+it,sarno,Sarno,4,31278,40.816667,14.616667
+it,saronno,Saronno,9,38080,45.633333,9.033333
+it,sarzana,Sarzana,8,20596,44.116667,9.966667
+it,sassari,Sassari,14,119187,40.727222,8.560278
+it,sasso marconi,Sasso Marconi,5,14487,44.4,11.25
+it,sassuolo,Sassuolo,5,37446,44.55,10.783333
+it,sava,Sava,13,15819,40.4,17.55
+it,saviano,Saviano,4,15792,40.9,14.5
+it,savigliano,Savigliano,12,21161,44.633333,7.666667
+it,savignano sul rubicone,Savignano sul Rubicone,5,16276,44.095278,12.408611
+it,savona,Savona,8,58302,44.283333,8.5
+it,scafati,Scafati,4,48113,40.75,14.516667
+it,scalea,Scalea,3,10765,39.816667,15.783333
+it,scandiano,Scandiano,5,23918,44.6,10.716667
+it,scandicci,Scandicci,16,50491,43.75,11.183333
+it,schio,Schio,20,39001,45.716667,11.35
+it,sciacca,Sciacca,15,42902,37.516667,13.05
+it,scicli,Scicli,15,27198,36.783333,14.7
+it,scordia,Scordia,15,17742,37.3,14.85
+it,scorze,Scorz�,20,18546,45.573611,12.106111
+it,sedriano,Sedriano,9,11231,45.483333,8.966667
+it,segrate,Segrate,9,33249,45.483333,9.283333
+it,selargius,Selargius,14,30232,39.256667,9.1675
+it,selvazzano dentro,Selvazzano Dentro,20,20047,45.383333,11.783333
+it,senago,Senago,9,20198,45.583333,9.116667
+it,senigallia,Senigallia,10,42180,43.716667,13.216667
+it,seravezza,Seravezza,16,12985,43.983333,10.216667
+it,seregno,Seregno,9,40237,45.65,9.2
+it,seriate,Seriate,9,21795,45.683333,9.716667
+it,serramanna,Serramanna,14,9766,39.424444,8.924444
+it,serravalle pistoiese,Serravalle Pistoiese,16,11171,43.9,10.816667
+it,sessa aurunca,Sessa Aurunca,4,22821,41.233333,13.933333
+it,sesto calende,Sesto Calende,9,10402,45.733333,8.633333
+it,sesto fiorentino,Sesto Fiorentino,16,47074,43.833333,11.2
+it,sesto san giovanni,Sesto San Giovanni,9,74668,45.533333,9.233333
+it,sestri levante,Sestri Levante,8,18906,44.266667,9.4
+it,sestu,Sestu,14,17618,39.300556,9.090833
+it,settimo torinese,Settimo Torinese,12,47463,45.15,7.766667
+it,seveso,Seveso,9,20142,45.65,9.15
+it,sezze,Sezze,7,24214,41.5,13.05
+it,siano,Siano,4,10613,40.8,14.683333
+it,siderno,Siderno,3,17194,38.266667,16.3
+it,siena,Siena,16,47922,43.316667,11.35
+it,signa,Signa,16,16237,43.783333,11.083333
+it,silea,Silea,20,9447,45.656111,12.300278
+it,silvi,Silvi,1,16070,42.566667,14.083333
+it,sinalunga,Sinalunga,16,12348,43.2,11.733333
+it,siniscola,Siniscola,14,10187,40.566667,9.683333
+it,sinnai,S�nnai,14,17218,39.302222,9.203056
+it,solaro,Solaro,9,13435,44.883333,9.166667
+it,soliera,Soliera,5,14530,44.733333,10.916667
+it,solofra,Solofra,4,12419,40.833333,14.85
+it,sommacampagna,Sommacampagna,20,14414,45.4,10.833333
+it,somma lombardo,Somma Lombardo,9,16935,45.683333,8.7
+it,somma vesuviana,Somma Vesuviana,4,35196,40.866667,14.433333
+it,sona,Sona,20,15528,45.433333,10.833333
+it,sondrio,Sondrio,9,22064,46.166667,9.866667
+it,sora,Sora,7,25977,41.716667,13.616667
+it,soresina,Soresina,9,8947,45.283333,9.85
+it,sorrento,Sorrento,4,15308,40.616667,14.366667
+it,sorso,Sorso,14,13555,40.8,8.577222
+it,sortino,Sortino,15,9617,37.15,15.033333
+it,soverato,Soverato,3,9884,38.683333,16.55
+it,spilamberto,Spilamberto,5,11472,44.533333,11.016667
+it,spilimbergo,Spilimbergo,6,11193,46.1125,12.896944
+it,spinea,Spinea,20,25198,45.493056,12.160556
+it,spoleto,Spoleto,18,36489,42.733333,12.733333
+it,spoltore,Spoltore,1,17633,42.45,14.133333
+it,spresiano,Spresiano,20,9868,45.777778,12.266111
+it,squinzano,Squinzano,13,15156,40.436111,18.041667
+it,stezzano,Stezzano,9,11844,45.633333,9.65
+it,stradella,Stradella,9,11050,45.083333,9.3
+it,subiaco,Subiaco,7,9932,41.916667,13.1
+it,sulmona,Sulmona,1,26796,42.05,13.916667
+it,surbo,Surbo,13,13711,40.399444,18.133056
+it,susegana,Susegana,20,11594,45.851389,12.248333
+it,suzzara,Suzzara,9,18304,45.0,10.75
+it,syracuse,Syracuse,15,127666,37.066667,15.3
+it,taggia,Taggia,8,12367,43.866667,7.85
+it,taormina,Taormina,15,10160,37.85,15.283333
+it,taranto,Taranto,13,191364,40.476111,17.229722
+it,tarquinia,Tarquinia,7,16898,42.25,11.75
+it,taurianova,Taurianova,3,15488,38.35,16.016667
+it,taurisano,Taurisano,13,12340,39.95,18.216667
+it,tavagnacco,Tavagnacco,6,12877,46.133889,13.176389
+it,taviano,Taviano,13,12797,39.983333,18.083333
+it,teano,Teano,4,12806,41.25,14.066667
+it,tempio pausania,Tempio Pausania,14,13947,40.9,9.1
+it,teramo,Teramo,1,49605,42.65,13.7
+it,terlizzi,Terlizzi,13,27076,41.133333,16.533333
+it,termini imerese,Termini Imerese,15,27632,37.983333,13.7
+it,termoli,Termoli,11,32917,42.0,15.0
+it,terni,Terni,18,108006,42.566667,12.616667
+it,terracina,Terracina,7,37984,41.283333,13.25
+it,terralba,Terralba,14,9530,39.719167,8.639167
+it,terranuova bracciolini,Terranuova Bracciolini,16,12026,43.55,11.583333
+it,terrasini,Terrasini,15,11269,38.15,13.083333
+it,terzigno,Terzigno,4,17155,40.8,14.483333
+it,tezze sul brenta,Tezze sul Brenta,20,11215,45.683333,11.683333
+it,thiene,Thiene,20,20474,45.7,11.483333
+it,tirano,Tirano,9,9546,46.216667,10.166667
+it,tivoli,Tivoli,7,49303,41.966667,12.8
+it,todi,Todi,18,17321,42.783333,12.4
+it,tolentino,Tolentino,10,19055,43.2,13.283333
+it,tolmezzo,Tolmezzo,6,10777,46.4075,13.0175
+it,torre annunziata,Torre Annunziata,4,47211,40.75,14.45
+it,torre del greco,Torre del Greco,4,88006,40.783333,14.366667
+it,torre santa susanna,Torre Santa Susanna,13,10575,40.466667,17.733333
+it,torri di quartesolo,Torri di Quartesolo,20,11900,45.516667,11.616667
+it,tortoli,Tortol�,14,11127,39.925556,9.657222
+it,tortona,Tortona,12,25129,44.9,8.866667
+it,tradate,Tradate,9,16621,45.716667,8.9
+it,trani,Trani,13,53902,41.283333,16.416667
+it,trapani,Trapani,15,70031,38.016667,12.483333
+it,travagliato,Travagliato,9,12234,45.516667,10.083333
+it,trebaseleghe,Trebaseleghe,20,12137,45.592778,12.050556
+it,trebisacce,Trebisacce,3,9028,39.866667,16.533333
+it,trecate,Trecate,12,18578,45.433333,8.733333
+it,treia,Treia,10,9673,43.316667,13.316667
+it,trentola-ducenta,Tr�ntola-Ducenta,4,15215,40.983333,14.166667
+it,trento,Trento,17,106703,46.066667,11.133333
+it,trepuzzi,Trepuzzi,13,14198,40.405556,18.075556
+it,treviglio,Treviglio,9,27200,45.516667,9.583333
+it,treviso,Treviso,20,81323,45.666667,12.245
+it,trezzano sul naviglio,Trezzano sul Naviglio,9,18220,45.416667,9.066667
+it,trezzo,Trezzo,9,12360,45.6,9.516667
+it,tricase,Tricase,13,17836,39.933333,18.366667
+it,trieste,Trieste,6,204379,45.648611,13.78
+it,triggiano,Triggiano,13,26708,41.066667,16.916667
+it,trinitapoli,Trinitapoli,13,14629,41.35,16.083333
+it,trofarello,Trofarello,12,11377,44.983333,7.733333
+it,troina,Troina,15,10450,37.783333,14.6
+it,turin,Turin,12,846489,45.05,7.666667
+it,turi,Turi,13,11680,40.916667,17.016667
+it,udine,Udine,6,94597,46.061944,13.242222
+it,ugento,Ugento,13,9893,39.933333,18.166667
+it,umbertide,Umbertide,18,16451,43.3,12.333333
+it,urbino,Urbino,10,15284,43.716667,12.633333
+it,vaiano,Vaiano,16,9514,43.966667,11.116667
+it,valdagno,Valdagno,20,26435,45.65,11.3
+it,valdobbiadene,Valdobbiadene,20,10854,45.9,12.0
+it,valeggio sul mincio,Valeggio sul Mincio,20,12015,45.35,10.733333
+it,valenzano,Valenzano,13,17960,41.033333,16.883333
+it,valenza,Valenza,12,20625,45.016667,8.633333
+it,valguarnera caropepe,Valguarnera Caropepe,15,8991,37.5,14.383333
+it,valmadrera,Valmadrera,9,11574,45.85,9.35
+it,valmontone,Valmontone,7,14448,41.766667,12.95
+it,varazze,Varazze,8,13464,44.366667,8.566667
+it,varedo,Varedo,9,13151,45.6,9.15
+it,varese,Varese,9,84371,45.8,8.833333
+it,vasto,Vasto,1,37841,42.116667,14.7
+it,vecchiano,Vecchiano,16,12339,43.783333,10.383333
+it,vedelago,Vedelago,20,14702,45.687222,12.016389
+it,veglie,Veglie,13,14227,40.333333,17.966667
+it,velletri,Velletri,7,56758,41.683333,12.783333
+it,venafro,Venafro,11,12050,41.483333,14.033333
+it,venaria reale,Venaria Reale,12,37806,45.133333,7.633333
+it,venice,Venice,20,259126,45.438611,12.326667
+it,venosa,Venosa,2,11982,40.966667,15.816667
+it,ventimiglia,Ventimiglia,8,24734,43.783333,7.6
+it,vercelli,Vercelli,12,45114,45.316667,8.416667
+it,veroli,Veroli,7,22352,41.683333,13.416667
+it,verona,Verona,20,247082,45.45,11.0
+it,vetralla,Vetralla,7,13250,42.316667,12.05
+it,viadana,Viadana,9,18158,44.933333,10.516667
+it,viareggio,Viareggio,16,59866,43.866667,10.233333
+it,vibo valentia,Vibo Valentia,3,36055,38.666667,16.1
+it,vicenza,Vicenza,20,108636,45.55,11.55
+it,vico equense,Vico Equense,4,20756,40.666667,14.416667
+it,vieste,Vieste,13,13440,41.883333,16.166667
+it,vietri sul mare,Vietri sul Mare,4,8105,40.666667,14.733333
+it,vigevano,Vigevano,9,55078,45.316667,8.85
+it,vignola,Vignola,5,22092,44.483333,11.0
+it,vigodarzere,Vigodarzere,20,13309,45.45,11.883333
+it,vigonza,Vigonza,20,21541,45.45,11.983333
+it,villabate,Villabate,15,20927,38.066667,13.433333
+it,villacidro,Villacidro,14,15513,39.457778,8.740556
+it,villafranca di verona,Villafranca di Verona,20,30271,45.35,10.833333
+it,villa literno,Villa Literno,4,10562,41.0,14.066667
+it,villaricca,Villaricca,4,28190,40.916667,14.2
+it,villa san giovanni,Villa San Giovanni,3,13187,38.216667,15.633333
+it,villasanta,Villasanta,9,14218,45.616667,9.3
+it,villorba,Villorba,20,18144,45.738333,12.233611
+it,vimercate,Vimercate,9,26053,45.616667,9.366667
+it,vimodrone,Vimodrone,9,14040,45.5,9.266667
+it,vinci,Vinci,16,14284,43.783333,10.916667
+it,virgilio,Virgilio,9,10891,45.116667,10.783333
+it,viterbo,Viterbo,7,63299,42.416667,12.1
+it,vittoria,Vittoria,15,56765,36.95,14.533333
+it,vittorio veneto,Vittorio Veneto,20,30193,45.976667,12.303333
+it,voghera,Voghera,9,38848,44.983333,9.016667
+it,volpago del montello,Volpago del Montello,20,9593,45.783333,12.116667
+it,volpiano,Volpiano,12,13842,45.2,7.766667
+it,volterra,Volterra,16,11130,43.4,10.85
+it,zagarolo,Zagarolo,7,14410,41.833333,12.833333
+it,zevio,Zevio,20,13318,45.366667,11.133333
+it,zogno,Zogno,9,9607,45.8,9.666667
+it,zola predosa,Zola Predosa,5,15362,44.483333,11.2

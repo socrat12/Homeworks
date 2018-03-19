@@ -1,4 +1,4 @@
-package home70;
+package home70.mario;
 
 import java.util.LinkedList;
 import java.util.List;

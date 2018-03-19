@@ -1,4 +1,4 @@
-package home70;
+package home70.mario;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package home60;
+package home60.htmlChess;
 
 public class Pomogator {
 

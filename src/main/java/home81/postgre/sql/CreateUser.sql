@@ -6,5 +6,6 @@ CREATE TABLE t_user (
 	password varchar (50) NOT NULL,
 	addres varchar (80) NOT NULL,
 	birthdate date NOT NULL,
-	user_group_id int REFERENCES t_user_group ("user_group_id")
+	user_group_id int,
+	FOREIGN KEY (user_group_id) REFERENCES t_user_group ("user_group_id")
 );

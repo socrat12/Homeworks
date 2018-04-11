@@ -1,10 +1,10 @@
 CREATE TABLE t_user (
-	id SERIAL PRIMARY KEY,
+	customer_id SERIAL PRIMARY KEY,
 	first_name varchar (30) NOT NULL,
 	last_name varchar (30) NOT NULL,
-	nickname varchar (30) NOT NULL,
+	user_name varchar (30) NOT NULL UNIQUE,
 	password varchar (50) NOT NULL,
-	addres varchar (50) NOT NULL,
+	addres varchar (80) NOT NULL,
 	birthdate date NOT NULL,
-	addres varchar (80) NOT NULL
+	user_group_id int REFERENCES t_user_group ("user_group_id")
 );

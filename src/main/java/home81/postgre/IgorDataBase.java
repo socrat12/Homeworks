@@ -1,5 +1,7 @@
 package home81.postgre;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -13,7 +15,6 @@ public class IgorDataBase {
     }
 
     private static void insertIntoAutor() {
-        String insertAutor = "INSERT INTO t_autor(autor_name) values ('game1');";
         ReaderFromFile reader = new ReaderFromFile(IgorDataBase.class.getClassLoader().getResource("books.txt"));
         Set<String> autors = new TreeSet<>();
         
@@ -22,8 +23,11 @@ public class IgorDataBase {
             autors.add(autor);
         }
         
+        List<List<String>> autorsAsList = new ArrayList<>();
+        autorsAsList.add(new ArrayList<String>(autors));
+        
         PostgreSQLWork postgre = new PostgreSQLWork("BookShop");
-        postgre.insertlistToDataBase(autors, "t_autor");
+        postgre.insertlistToDataBase(autorsAsList, "t_autor");
         postgre.close();
         
         System.out.println("Inserted");

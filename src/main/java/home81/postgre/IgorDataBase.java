@@ -17,9 +17,28 @@ public class IgorDataBase {
             "Рассказ", "Романс", "Роман", "Сонет", "Сказка", "Стансы", "Эпопея" };
 
     public static void main (String[] args) {
-        insertIntoAutor();
+        /*insertIntoAutor();
         insertIntoBooks();
-        insertIntoUserGroup();
+        insertIntoUserGroup();*/
+        insertIntoUsers();
+    }
+
+    private static void insertIntoUsers () {
+        ReaderFromFile reader = new ReaderFromFile(PostgreSQLWork.class.getClassLoader().getResource("EngLastNames.txt"));
+        List<String> lastNames = reader.readAllAsLIst();
+        
+        List<List<String>> groupName = new ArrayList<>();
+
+        PostgreSQLWork postgre = new PostgreSQLWork(Attributes.BASE_NAME);
+        for (int i = 0; i < 15; i++) {
+            ArrayList<String> toAdd = new ArrayList<String>();
+            toAdd.add(lastNames.get((int) (Math.random() * lastNames.size())));
+            groupName.add(toAdd);
+        }
+        
+        postgre.insertlistToDataBase(groupName, "t_user");
+        postgre.close();
+        System.out.println("t_user filled");
     }
 
     private static void insertIntoUserGroup () {

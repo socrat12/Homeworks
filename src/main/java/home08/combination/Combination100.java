@@ -2,8 +2,11 @@ package home08.combination;
 
 //10 чисел из 4 комбинаций
 public class Combination100 {
+    
+    private final static int SIZE = 8;
+    
     public static void main(String[] args) {
-	int array[] = new int[10];
+	int array[] = new int[SIZE];
 
 	// Пройдёмся по всему массиву, заполняя его
 	for (int i = 0; i < array.length; i++) {
@@ -17,7 +20,7 @@ public class Combination100 {
 	if (i == array.length) {
 	    return;
 	}
-	for (int k = 1; k <= 4; k++) {
+	for (int k = 1; k <= SIZE; k++) {
 	    array[i] = k;
 	    pick(i + 1, array);
 	    print(array);

@@ -8,8 +8,8 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import dataBase.postgre.PostgreSQLWork;
-import fileOperation.ReaderFromFile;
 import listCreators.NamesAndWords;
+import workWithFiles.fileIO.ReaderFromFile;
 
 public class IgorDataBase {
 

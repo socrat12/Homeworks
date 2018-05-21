@@ -3,7 +3,7 @@ package home81.postgre;
 import java.io.File;
 
 import dataBase.postgre.PostgreSQLWork;
-import fileOperation.ReaderFromFile;
+import workWithFiles.fileIO.ReaderFromFile;
 
 public class CreatingTables {
 

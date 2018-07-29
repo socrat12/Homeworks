@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lesson 2</title>
+</head>
+<body>
+<p id="par">Параграф</p>
+<button onclick="myFunction()">Call function</button>
+
+<script>
+    function myFunction() {
+        var numberType = 56e3;
+        var stringType = 'строка "строка"';
+        var x = numberType + stringType;
+        var arrayType = ['1', '2', '3'];
+        var objectType = {age: 14, sex: 'female', name: 'Anna'}
+        var booleanType = true;
+        var nullType = null;
+        var undefinedType = undefined;
+
+        if (nullType == undefinedType) console.log('Точно')
+
+        alert(booleanType)ж
+        console.log(objectType.age);
+        document.getElementById('par').innerHTML = x;
+        console.log(arrayType[1])
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lesson 8</title>
+</head>
+<body>
+<input name="length" id="length" placeholder="length">
+<input name="width" id="width" placeholder="width">
+<input name="height" id="height" placeholder="height">
+<input type="button" id="calculate" onclick="displayResult()" value="Calculate volume">
+
+<br>
+<p id="result"></p>
+
+<script>
+    function displayResult() {
+        var length = document.getElementById('length').value;
+        var width = document.getElementById('width').value;
+        var height = document.getElementById('height').value;
+
+        document.getElementById('result').innerHTML = 'Площадь равна: ' + calculateSize(length, width, height) + ' м<sup>3</sup>' ;
+    }
+
+    function calculateSize(length, width, height) {
+        return length * width * height;
+    }
+
+    var user, user2;
+
+    user = {
+        firstName: "first",
+        lastName: "last",
+        age: 23,
+        sex: "Male",
+        fullName: function () {
+            return this.firstName + ' ' + this.lastName + ', ' + this.age + ' years old, ' + this.sex.toLowerCase();
+        }
+    };
+
+    user2 = new String("Николай");
+
+    console.log(user2)
+    console.log(user.fullName());
+</script>
+
+</body>
+</html>

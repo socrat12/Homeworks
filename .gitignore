@@ -5,6 +5,7 @@
 
 # Idea file
 /.idea/*
+*.idea
 *.iml
 
 #Folders
